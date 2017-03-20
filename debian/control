@@ -1,0 +1,12 @@
+Source: ros-indigo-stomp-test-kr210-moveit-config
+Section: misc
+Priority: extra
+Maintainer: MoveIt Setup Assistant <assistant@moveit.ros.org>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-stomp-test-support
+Homepage: http://moveit.ros.org/
+Standards-Version: 3.9.2
+
+Package: ros-indigo-stomp-test-kr210-moveit-config
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-joint-state-publisher, ros-indigo-moveit-planners-ompl, ros-indigo-moveit-ros-move-group, ros-indigo-moveit-ros-visualization, ros-indigo-robot-state-publisher, ros-indigo-stomp-test-support, ros-indigo-xacro
+Description: An automatically generated package with all the configuration and launch files for using the test_kr210 with the MoveIt Motion Planning Framework

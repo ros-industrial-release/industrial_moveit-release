@@ -1,0 +1,8 @@
+ros-indigo-stomp-test-kr210-moveit-config (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial release
+  * Contributors: Jonathan Meyer, Levi Armstrong, Jorge Nicho
+
+ -- MoveIt Setup Assistant <assistant@moveit.ros.org>  Tue, 14 Mar 2017 05:00:00 -0000
+
+
