@@ -1,0 +1,14 @@
+ros-indigo-industrial-collision-detection (0.1.1-0saucy) saucy; urgency=high
+
+
+
+ -- Levi Armstrong <levi.armstrong@swri.org>  Fri, 24 Mar 2017 05:00:00 -0000
+
+ros-indigo-industrial-collision-detection (0.1.0-0saucy) saucy; urgency=high
+
+  * Initial release
+  * Contributors: Levi H Armstrong, Jorge Nicho
+
+ -- Levi Armstrong <levi.armstrong@swri.org>  Tue, 14 Mar 2017 05:00:00 -0000
+
+
