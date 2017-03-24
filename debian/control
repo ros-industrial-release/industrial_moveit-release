@@ -1,0 +1,12 @@
+Source: ros-indigo-stomp-plugins
+Section: misc
+Priority: extra
+Maintainer: Jorge Nicho <jrgnichodevel@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-industrial-collision-detection, ros-indigo-moveit-core, ros-indigo-moveit-ros-planning, ros-indigo-pluginlib, ros-indigo-roscpp, ros-indigo-stomp-core, ros-indigo-stomp-moveit
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-stomp-plugins
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-cmake-modules, ros-indigo-industrial-collision-detection, ros-indigo-moveit-core, ros-indigo-moveit-ros-planning, ros-indigo-pluginlib, ros-indigo-roscpp, ros-indigo-stomp-core, ros-indigo-stomp-moveit
+Description: The stomp_plugins package
