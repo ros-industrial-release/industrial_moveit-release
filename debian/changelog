@@ -1,0 +1,14 @@
+ros-indigo-constrained-ik (0.1.1-0saucy) saucy; urgency=high
+
+
+
+ -- Jeremy Zoss, SwRI <jzoss@swri.org>  Fri, 24 Mar 2017 05:00:00 -0000
+
+ros-indigo-constrained-ik (0.1.0-0saucy) saucy; urgency=high
+
+  * Initial release
+  * Contributors: Jeremy Zoss, Levi Armstrong, Jonathan W Meyer, Dan Solomon
+
+ -- Jeremy Zoss, SwRI <jzoss@swri.org>  Tue, 14 Mar 2017 05:00:00 -0000
+
+
